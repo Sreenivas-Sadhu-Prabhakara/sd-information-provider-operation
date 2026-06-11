@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-information-provider-operation
+description: "BIAN Service Domain: Information Provider Operation (Operate pattern, Reference Data)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - operate
+annotations:
+  bian/business-area: "Reference Data"
+  bian/business-domain: "Reference Data"
+  bian/asset-type: "Information Feed"
+  bian/control-record: "Information Feed Operating Session"
